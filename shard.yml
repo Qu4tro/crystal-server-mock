@@ -1,0 +1,9 @@
+name: jwt-gate
+version: 0.1.0
+
+license: MIT
+
+dependencies:
+  mocks:
+    github: waterlink/mocks.cr
+    version: ~> 0.9
